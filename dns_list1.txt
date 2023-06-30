@@ -50,5 +50,4 @@
 ||spocs.getpocket.com^
 ||assets.mozilla.net^
 ||tracking-protection.cdn.mozilla.net^
-||shavar.services.mozilla.com^
 ||safebrowsing.googleapis.com^
