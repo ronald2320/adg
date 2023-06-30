@@ -46,3 +46,9 @@
 ||location.services.mozilla.com^
 ||api.listonic.com^
 ||apiu.typeapp.com^
+||a.appice.io^
+||spocs.getpocket.com^
+||assets.mozilla.net^
+||tracking-protection.cdn.mozilla.net^
+||shavar.services.mozilla.com^
+||safebrowsing.googleapis.com^
