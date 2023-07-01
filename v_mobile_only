@@ -1,2 +1,7 @@
+! V mobile only list
+!
+! do not merge with common
+!
+!
 ||shavar.services.mozilla.com^
 ||firefox.settings.services.mozilla.com^
