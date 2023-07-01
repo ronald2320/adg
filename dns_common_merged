@@ -1,3 +1,7 @@
+! merge common and pc_extra lists
+! do not merge only lists
+!
+!
 ! dns common list
 !
 !
