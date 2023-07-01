@@ -14,6 +14,10 @@
 ||telemetry.mozilla.org^
 ||contile.services.mozilla.com^
 ||safebrowsing.googleapis.com^
+# g mobile
+||bluemailapp.com^
+||typeapp.com^
+||api.listonic.com^
 # google
 ||alt4-mtalk.google.com^
 ||alt6-mtalk.google.com^
@@ -22,15 +26,12 @@
 ||alt2-mtalk.google.com^
 # nova launcher
 ||teslacoilapps.com^
-# g mobile
-||bluemailapp.com^
-||typeapp.com^
-||api.listonic.com^
 # trackers
 ||lpcdn.lpsnmedia.net^
 ||publisher.liveperson.net^
 ||assets.adobedtm.com^
 ||a.appice.io^
+||api.hamsterbeat.com^
 ! 
 !
 ! common list end
