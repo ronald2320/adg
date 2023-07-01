@@ -1,3 +1,4 @@
+# dns_common_list
 # firefox
 ||detectportal.firefox.com^
 ||autopush.prod.mozaws.net^
@@ -30,3 +31,4 @@
 ||publisher.liveperson.net^
 ||assets.adobedtm.com^
 ||a.appice.io^
+# dns_common_list end
