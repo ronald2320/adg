@@ -1,4 +1,4 @@
-! dns_common
+! dns common list
 !
 !
 # firefox
@@ -35,4 +35,43 @@
 ||a.appice.io^
 ! 
 !
-! dns_common end
+! dns common list end
+! pc extra list
+!
+!
+# ms syping
+||dl.delivery.mp.microsoft.com^
+||prod.do.dsp.mp.microsoft.com^
+||windowsazure.com^
+||live.com^
+||vsgallery.com^
+||urs.microsoft.com.nsatc.net^
+||us-v10.events.data.microsoft.com^
+||us.vortex-win.data.microsoft.com^
+||v10-win.vortex.data.microsoft.com.akadns.net^
+||wns.notify.windows.com.akadns.net^
+||telemetry.microsoft.com^
+||msftconnecttest.com^
+||data.microsoft.com^
+||self.events.data.microsoft.com^
+||windowsupdate.com^
+||www.bing.com^
+||fp.msedge.net^
+||fs.microsoft.com^
+||ctldl.windowsupdate.com^
+||settings-win.data.microsoft.com^
+||cxcs.microsoft.net^
+||cs.dds.microsoft.com^
+||maps.windows.com^
+||ecs.office.com^
+||api.msn.com^
+||clients.config.office.net^
+||client.wns.windows.com^
+||r4.res.office365.com^
+||slscr.update.microsoft.com^
+||watson.microsoft.com^
+||telemetry.remoteapp.windowsazure.com^
+||telemetry.urs.microsoft.com^
+!
+!
+! pc extar list ends
