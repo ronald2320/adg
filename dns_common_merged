@@ -2,7 +2,7 @@
 ! DO NOT merge only lists
 !
 !
-! dns common list
+! common list
 !
 !
 # firefox
@@ -15,8 +15,6 @@
 ||push.services.mozilla.com^
 ||location.services.mozilla.com^
 ||prod.detectportal.prod.cloudops.mozgcp.net^
-||mozgcp.net^
-||prod.mozaws.net^
 ||telemetry.mozilla.org^
 ||contile.services.mozilla.com^
 ||safebrowsing.googleapis.com^
@@ -39,7 +37,7 @@
 ||a.appice.io^
 ! 
 !
-! dns common list end
+! common list end
 ! pc extra list
 !
 !
