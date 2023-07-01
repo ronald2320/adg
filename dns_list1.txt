@@ -21,6 +21,10 @@
 ||alt2-mtalk.google.com^
 # nova launcher
 ||teslacoilapps.com^
+# g mobile
+||bluemailapp.com^
+||typeapp.com^
+||api.listonic.com^
 # trackers
 ||lpcdn.lpsnmedia.net^
 ||publisher.liveperson.net^
