@@ -51,3 +51,5 @@
 ||assets.mozilla.net^
 ||tracking-protection.cdn.mozilla.net^
 ||safebrowsing.googleapis.com^
+||*.bluemailapp.com^
+||*.typeapp.com^
