@@ -1,4 +1,4 @@
-! dns_common
+! dns common list
 !
 !
 # firefox
@@ -35,4 +35,4 @@
 ||a.appice.io^
 ! 
 !
-! dns_common end
+! dns common list end
