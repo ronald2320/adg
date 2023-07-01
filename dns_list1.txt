@@ -1,3 +1,4 @@
+# firefox
 ||detectportal.firefox.com^
 ||autopush.prod.mozaws.net^
 ||prod.ingestion-edge.prod.dataops.mozgcp.net^
@@ -6,18 +7,22 @@
 ||tracking-protection.cdn.mozilla.net^
 ||push.services.mozilla.com^
 ||location.services.mozilla.com^
+||prod.detectportal.prod.cloudops.mozgcp.net^
+||mozgcp.net^
+||prod.mozaws.net^
+||telemetry.mozilla.org^
+||contile.services.mozilla.com^
 ||safebrowsing.googleapis.com^
+# google
 ||alt4-mtalk.google.com^
 ||alt6-mtalk.google.com^
 ||alt7-mtalk.google.com^
 ||mtalk.google.com^
 ||alt2-mtalk.google.com^
+# nova launcher
 ||teslacoilapps.com^
+# trackers
 ||lpcdn.lpsnmedia.net^
 ||publisher.liveperson.net^
 ||assets.adobedtm.com^
 ||a.appice.io^
-||prod.detectportal.prod.cloudops.mozgcp.net^
-||mozgcp.net^
-||prod.mozaws.net^
-||telemetry.mozilla.org^
