@@ -12,10 +12,12 @@
 ||alt7-mtalk.google.com^
 ||mtalk.google.com^
 ||alt2-mtalk.google.com^
-||api.teslacoilapps.com^
 ||teslacoilapps.com^
-||api.teslacoilapps.com^
 ||lpcdn.lpsnmedia.net^
 ||publisher.liveperson.net^
 ||assets.adobedtm.com^
 ||a.appice.io^
+||prod.detectportal.prod.cloudops.mozgcp.net^
+||mozgcp.net^
+||prod.mozaws.net^
+||telemetry.mozilla.org^
