@@ -1,3 +1,4 @@
+# ms syping
 ||dl.delivery.mp.microsoft.com^
 ||prod.do.dsp.mp.microsoft.com^
 ||windowsazure.com^
@@ -27,6 +28,6 @@
 ||client.wns.windows.com^
 ||r4.res.office365.com^
 ||slscr.update.microsoft.com^
-*watson.microsoft.com*
-*telemetry.remoteapp.windowsazure.com*
-*telemetry.urs.microsoft.com*
+||watson.microsoft.com^
+||telemetry.remoteapp.windowsazure.com^
+||telemetry.urs.microsoft.com^
