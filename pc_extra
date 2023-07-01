@@ -26,3 +26,7 @@
 ||clients.config.office.net^
 ||client.wns.windows.com^
 ||r4.res.office365.com^
+||slscr.update.microsoft.com^
+*watson.microsoft.com*
+*telemetry.remoteapp.windowsazure.com*
+*telemetry.urs.microsoft.com*
