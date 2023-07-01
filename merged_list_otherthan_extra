@@ -1,1 +1,1 @@
-git merge-files dns_list1.txt pc_extra
+git merge-file dns_list1.txt pc_extra 
