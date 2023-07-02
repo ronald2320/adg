@@ -31,6 +31,7 @@
 ||content-autofill.googleapis.com^
 ||alt3-mtalk.google.com^
 ||firebaseinstallations.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
 # nova launcher
 ||teslacoilapps.com^
 # trackers
