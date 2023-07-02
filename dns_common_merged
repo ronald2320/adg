@@ -2,7 +2,7 @@
 ! DO NOT merge only lists
 !
 !
-! common list
+! common list t1
 !
 !
 # firefox
@@ -85,4 +85,4 @@
 ||telemetry.urs.microsoft.com^
 !
 !
-! pc extra list ends
+! pc extra list ends t1
