@@ -2,7 +2,7 @@
 ! DO NOT merge only lists
 !
 !
-! common list t1
+! common list
 !
 !
 # firefox
@@ -36,6 +36,7 @@
 ||alt3-mtalk.google.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
+||firebaseinappmessaging.googleapis.com^
 # nova launcher
 ||teslacoilapps.com^
 # trackers
