@@ -34,6 +34,8 @@
 ||watson.microsoft.com^
 ||telemetry.remoteapp.windowsazure.com^
 ||telemetry.urs.microsoft.com^
+||officeclient.microsoft.com^
+||config.edge.skype.com^
 !
 !
 ! pc extra list ends
