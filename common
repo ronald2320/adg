@@ -1,6 +1,8 @@
 ! common list
 !
 !
+# motorola
+||svcmot.com^
 # firefox
 ||detectportal.firefox.com^
 ||autopush.prod.mozaws.net^
