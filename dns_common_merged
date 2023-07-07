@@ -21,6 +21,9 @@
 ||contile.services.mozilla.com^
 ||safebrowsing.googleapis.com^
 ||aus5.mozilla.org^
+#tp link
+||analytics.tplinkcloud.com^
+||iac.tplinknbu.com^
 # g mobile
 ||bluemailapp.com^
 ||typeapp.com^
@@ -40,6 +43,7 @@
 ||firebaseinstallations.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||firebaseinappmessaging.googleapis.com^
+||userlocation.googleapis.com^
 # nova launcher
 ||teslacoilapps.com^
 # trackers
