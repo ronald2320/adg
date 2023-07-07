@@ -43,6 +43,7 @@
 ||firebaseinstallations.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||firebaseinappmessaging.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||userlocation.googleapis.com^
 # nova launcher
 ||teslacoilapps.com^
