@@ -41,6 +41,7 @@
 ||firebaseinappmessaging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||userlocation.googleapis.com^
+||plus.l.google.com^
 # nova launcher
 ||teslacoilapps.com^
 # trackers
@@ -54,6 +55,9 @@
 ||geolocation.onetrust.com^
 ||sentry.io^
 ||mobisystems.com^
+||vuukle.com^
+||ravenjs.com^
+||algolia.net^
 ! 
 !
 ! common list end
