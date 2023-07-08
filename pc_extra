@@ -36,6 +36,7 @@
 ||telemetry.urs.microsoft.com^
 ||officeclient.microsoft.com^
 ||config.edge.skype.com^
+||officecdn.microsoft.com^
 # vmware
 ||softwareupdate.vmware.com^
 !
