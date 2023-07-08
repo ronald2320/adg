@@ -45,6 +45,8 @@
 ||people-pa.googleapis.com^
 # nova launcher
 ||teslacoilapps.com^
+# amazon
+||kinesis.us-east-1.amazonaws.com^
 # trackers
 ||lpcdn.lpsnmedia.net^
 ||publisher.liveperson.net^
