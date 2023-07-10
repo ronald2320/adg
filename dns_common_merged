@@ -51,6 +51,9 @@
 ||teslacoilapps.com^
 # amazon
 ||kinesis.us-east-1.amazonaws.com^
+# adobe
+||airdownload2.adobe.com^
+||typekit.net^
 # trackers
 ||lpcdn.lpsnmedia.net^
 ||publisher.liveperson.net^
