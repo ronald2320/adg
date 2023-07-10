@@ -7,6 +7,7 @@
 !
 # motorola
 ||svcmot.com^
+||moto-cds.appspot.com^
 # firefox
 ||detectportal.firefox.com^
 ||autopush.prod.mozaws.net^
@@ -47,6 +48,9 @@
 ||userlocation.googleapis.com^
 ||plus.l.google.com^
 ||people-pa.googleapis.com^
+||telephonyspamprotect-pa.googleapis.com^
+||photosdata-pa.googleapis.com^
+||infinitedata-pa.googleapis.com^
 # nova launcher
 ||teslacoilapps.com^
 # amazon
