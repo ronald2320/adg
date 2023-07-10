@@ -21,7 +21,7 @@
 ||contile.services.mozilla.com^
 ||safebrowsing.googleapis.com^
 ||aus5.mozilla.org^
-#tp link
+# tp link
 ||analytics.tplinkcloud.com^
 ||iac.tplinknbu.com^
 # g mobile
@@ -110,6 +110,13 @@
 ||officeclient.microsoft.com^
 ||config.edge.skype.com^
 ||officecdn.microsoft.com^
+||cloudapp.net^
+||edge.microsoft.com^
+||oneocsp.microsoft.com^
+||cloudapp.azure.com^
+||cdp.microsoft.com^
+||azurewebsites.net^
+||windows.com^
 # vmware
 ||softwareupdate.vmware.com^
 !
