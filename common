@@ -1,4 +1,4 @@
-! Version: 1.85
+! Version: 1.86
 ! Title: Common list
 !
 !
@@ -48,6 +48,7 @@
 ||telephonyspamprotect-pa.googleapis.com^
 ||photosdata-pa.googleapis.com^
 ||infinitedata-pa.googleapis.com^
+||pki-goog.l.google.com^
 # nova launcher
 ||teslacoilapps.com^
 # amazon
@@ -69,6 +70,8 @@
 ||vuukle.com^
 ||ravenjs.com^
 ||algolia.net^
+||app.link^
+||pepper.com^
 ! 
 !
 ! common list end
