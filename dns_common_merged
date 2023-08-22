@@ -2,7 +2,7 @@
 ! DO NOT merge only lists
 !
 !
-! Version: 1.86
+! Version: 1.87
 ! Title: Common list
 !
 !
@@ -79,7 +79,7 @@
 ! 
 !
 ! common list end
-! Version: 1.4
+! Version: 1.5
 ! Title: Pc extra list
 !
 !
@@ -122,7 +122,6 @@
 ||cloudapp.net^
 ||edge.microsoft.com^
 ||oneocsp.microsoft.com^
-||cloudapp.azure.com^
 ||cdp.microsoft.com^
 ||azurewebsites.net^
 ||windows.com^
