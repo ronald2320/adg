@@ -1,4 +1,4 @@
-! Version: 1.5
+! Version: 1.6
 ! Title: Pc extra list
 !
 !
@@ -44,6 +44,10 @@
 ||cdp.microsoft.com^
 ||azurewebsites.net^
 ||windows.com^
+||fd.api.iris.microsoft.com^
+||mem.gfx.ms^
+||t-msedge.net^
+||metaservices.microsoft.com^
 # vmware
 ||softwareupdate.vmware.com^
 !
