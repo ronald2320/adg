@@ -2,7 +2,7 @@
 ! DO NOT merge only lists
 !
 !
-! Version: 1.87
+! Version: 1.88
 ! Title: Common list
 !
 !
@@ -71,7 +71,6 @@
 ||geolocation.onetrust.com^
 ||sentry.io^
 ||mobisystems.com^
-||vuukle.com^
 ||ravenjs.com^
 ||algolia.net^
 ||app.link^
