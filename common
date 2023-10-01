@@ -19,6 +19,11 @@
 ||contile.services.mozilla.com^
 ||safebrowsing.googleapis.com^
 ||aus5.mozilla.org^
+# no longer using forefox or sync
+||mozilla.com^
+||firefox.com^
+||mozaws.net^
+||mozgcp.net^
 # tp link
 ||analytics.tplinkcloud.com^
 ||iac.tplinknbu.com^
