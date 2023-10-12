@@ -91,7 +91,7 @@
 ! 
 !
 ! common list end
-! Version: 1.6
+! Version: 1.7
 ! Title: Pc extra list
 !
 !
@@ -136,7 +136,6 @@
 ||oneocsp.microsoft.com^
 ||cdp.microsoft.com^
 ||azurewebsites.net^
-||windows.com^
 ||fd.api.iris.microsoft.com^
 ||mem.gfx.ms^
 ||t-msedge.net^
