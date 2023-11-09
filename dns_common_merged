@@ -91,7 +91,7 @@
 ! 
 !
 ! common list end
-! Version: 1.7
+! Version: 1.8
 ! Title: Pc extra list
 !
 !
@@ -141,6 +141,10 @@
 ||t-msedge.net^
 ||metaservices.microsoft.com^
 ||bing.net^
+||update.microsoft.com^
+||mp.microsoft.com.^
+||msftncsi.com^
+!!trafficmanager.net^
 # vmware
 ||softwareupdate.vmware.com^
 !
