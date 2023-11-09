@@ -48,6 +48,10 @@
 ||t-msedge.net^
 ||metaservices.microsoft.com^
 ||bing.net^
+||update.microsoft.com^
+||mp.microsoft.com.^
+||msftncsi.com^
+!!trafficmanager.net^
 # vmware
 ||softwareupdate.vmware.com^
 !
