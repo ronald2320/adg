@@ -144,7 +144,7 @@
 ||update.microsoft.com^
 ||mp.microsoft.com.^
 ||msftncsi.com^
-!!trafficmanager.net^
+||trafficmanager.net^
 # vmware
 ||softwareupdate.vmware.com^
 !
