@@ -6,6 +6,11 @@
 ! Title: Common list
 !
 !
+# netflix play timeline exception
+@@||ichnaea.netflix.com.^$important
+@@||ichnaea.netflix.com.^$dnstype=A,important
+@@||ichnaea-web.netflix.com.^$important
+@@||ichnaea-web.netflix.com.^$dnstype=A,important
 # motorola
 ||svcmot.com^
 ||moto-cds.appspot.com^
