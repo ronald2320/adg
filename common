@@ -2,9 +2,6 @@
 ! Title: Common list
 !
 !
-# netflix play timeline exception
-@@||ichnaea.netflix.com^
-@@||ichnaea-web.netflix.com^
 # motorola
 ||svcmot.com^
 ||moto-cds.appspot.com^
