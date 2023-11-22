@@ -95,6 +95,15 @@
 ! Title: Pc extra list
 !
 !
+# ms edge spying
+||c-ring.msedge.net^
+||bing.com^
+||msn.com^
+||microsoft.com^
+||yahoo.com^
+||edgeservices.bing.com^
+||msedge.net^
+||spov-ring-fallback.msedge.net.^
 # ms syping
 ||dl.delivery.mp.microsoft.com^
 ||prod.do.dsp.mp.microsoft.com^
