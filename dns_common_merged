@@ -2,7 +2,7 @@
 ! DO NOT merge only lists
 !
 !
-! Version: 1.89.1
+! Version: 1.89.2
 ! Title: Common list
 !
 !
@@ -59,7 +59,6 @@
 ||telephonyspamprotect-pa.googleapis.com^
 ||photosdata-pa.googleapis.com^
 ||infinitedata-pa.googleapis.com^
-||pki-goog.l.google.com^
 # nova launcher
 ||teslacoilapps.com^
 # amazon
@@ -88,6 +87,8 @@
 ||ads-segment-profile-noneu.truecaller.com^
 ||premium-noneu.truecaller.com^
 ||ads-partner-noneu.truecaller.com^
+# wps
+||wps.com^
 ! 
 !
 ! common list end
