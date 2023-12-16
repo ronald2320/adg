@@ -1,11 +1,7 @@
-! Version: 1.2
+! Version: 1.3
 ! Title: V mobile only list
 !
 ! do not merge with common
 !
 !
-||mozilla.com^
-||firefox.com^
-||mozaws.net^
-||mozgcp.net^
-
+||test.test^
