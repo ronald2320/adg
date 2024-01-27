@@ -1,7 +1,6 @@
-mobile >>>>>>>>>> common
-                  x_mobile_only
+mobile
+    motorola_mobile
+    *_mobile_only
 
-pc >>>>>>>>>>>>>> common
-                  pc_extra
-
-dns server >>>>>> dns_common_merged
+pc
+    pc_main
