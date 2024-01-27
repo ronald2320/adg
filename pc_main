@@ -4,17 +4,14 @@
 !
 # exceptions
 @@||t2bot.ru^
-# motorola
-||svcmot.com^
-||moto-cds.appspot.com^
 # no longer using forefox or sync
-||mozilla.com^
 ||firefox.com^
-||mozaws.net^
-||mozilla.net
-||mozgcp.net^
-||mozilla.org^
 ||getpocket.com^
+||mozaws.net^
+||mozgcp.net^
+||mozilla.com^
+||mozilla.net
+||mozilla.org^
 # google
 ||safebrowsing.googleapis.com^
 ||alt4-mtalk.google.com^
@@ -59,3 +56,33 @@
 ||app.link^
 ||pepper.com^
 ||piano.io^
+# ms edge spying
+||bing.com^
+||microsoft.com^
+||microsoft.net^
+||msedge.net^
+||msn.com^
+||windows.com^
+||yahoo.com^
+# ms syping
+||akadns.net^
+||azurewebsites.net^
+||bing.net^
+||cloudapp.net^
+||gfx.ms^
+||live.com^
+||msftconnecttest.com^
+||msftncsi.com^
+||nsatc.net^
+||office.com^
+||office365.com^
+||skype.com^
+||t-msedge.net^
+||vsgallery.com^
+||windowsazure.com^
+||windowsupdate.com^
+# vmware
+||softwareupdate.vmware.com^
+!
+!
+! pc extra list ends
