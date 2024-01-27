@@ -1,5 +1,5 @@
-! Version: 1.89.2
-! Title: Common list
+! Version: 2.1
+! Title: pc_main
 !
 !
 # exceptions
@@ -7,33 +7,16 @@
 # motorola
 ||svcmot.com^
 ||moto-cds.appspot.com^
-# firefox
-||detectportal.firefox.com^
-||autopush.prod.mozaws.net^
-||prod.ingestion-edge.prod.dataops.mozgcp.net^
-||spocs.getpocket.com^
-||assets.mozilla.net^
-||tracking-protection.cdn.mozilla.net^
-||push.services.mozilla.com^
-||location.services.mozilla.com^
-||prod.detectportal.prod.cloudops.mozgcp.net^
-||telemetry.mozilla.org^
-||contile.services.mozilla.com^
-||safebrowsing.googleapis.com^
-||aus5.mozilla.org^
 # no longer using forefox or sync
 ||mozilla.com^
 ||firefox.com^
 ||mozaws.net^
+||mozilla.net
 ||mozgcp.net^
-# tp link
-||analytics.tplinkcloud.com^
-||iac.tplinknbu.com^
-# g mobile
-||bluemailapp.com^
-||typeapp.com^
-||api.listonic.com^
+||mozilla.org^
+||getpocket.com^
 # google
+||safebrowsing.googleapis.com^
 ||alt4-mtalk.google.com^
 ||alt6-mtalk.google.com^
 ||alt7-mtalk.google.com^
@@ -55,8 +38,6 @@
 ||telephonyspamprotect-pa.googleapis.com^
 ||photosdata-pa.googleapis.com^
 ||infinitedata-pa.googleapis.com^
-# nova launcher
-||teslacoilapps.com^
 # amazon
 ||kinesis.us-east-1.amazonaws.com^
 # adobe
@@ -78,13 +59,3 @@
 ||app.link^
 ||pepper.com^
 ||piano.io^
-# truecaller
-||survey-noneu.truecaller.com^
-||ads-segment-profile-noneu.truecaller.com^
-||premium-noneu.truecaller.com^
-||ads-partner-noneu.truecaller.com^
-# wps
-||wps.com^
-! 
-!
-! common list end
