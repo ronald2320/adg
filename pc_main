@@ -2,8 +2,6 @@
 ! Title: pc_main
 !
 !
-# exceptions
-@@||t2bot.ru^
 # no longer using forefox or sync
 ||firefox.com^
 ||getpocket.com^
