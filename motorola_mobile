@@ -85,6 +85,8 @@
 ||ads-partner-noneu.truecaller.com^
 # wps
 ||wps.com^
+@@||addons.mozilla.org^
+@@||github.githubassets.com^
 ! 
 !
 ! motorola mobile end
