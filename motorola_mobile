@@ -4,6 +4,8 @@
 !
 # exceptions
 @@||t2bot.ru^
+@@||addons.mozilla.org^
+@@||github.githubassets.com^
 # motorola
 ||svcmot.com^
 ||moto-cds.appspot.com^
@@ -85,8 +87,6 @@
 ||ads-partner-noneu.truecaller.com^
 # wps
 ||wps.com^
-@@||addons.mozilla.org^
-@@||github.githubassets.com^
 ! 
 !
 ! motorola mobile end
