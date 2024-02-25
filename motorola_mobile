@@ -9,31 +9,19 @@
 # motorola
 ||svcmot.com^
 ||moto-cds.appspot.com^
-# firefox
-||detectportal.firefox.com^
-||autopush.prod.mozaws.net^
-||prod.ingestion-edge.prod.dataops.mozgcp.net^
-||spocs.getpocket.com^
-||assets.mozilla.net^
-||tracking-protection.cdn.mozilla.net^
-||push.services.mozilla.com^
-||location.services.mozilla.com^
-||prod.detectportal.prod.cloudops.mozgcp.net^
-||telemetry.mozilla.org^
-||contile.services.mozilla.com^
-||safebrowsing.googleapis.com^
-||aus5.mozilla.org^
 # no longer using forefox or sync
 ||mozilla.com^
+||mozilla.net^
+||mozilla.org^
 ||firefox.com^
 ||mozaws.net^
 ||mozgcp.net^
+||getpocket.com^
+||safebrowsing.googleapis.com^
 # tp link
 ||analytics.tplinkcloud.com^
 ||iac.tplinknbu.com^
 # g mobile
-||bluemailapp.com^
-||typeapp.com^
 ||api.listonic.com^
 # google
 ||alt4-mtalk.google.com^
@@ -64,6 +52,11 @@
 # adobe
 ||airdownload2.adobe.com^
 ||typekit.net^
+# truecaller
+||survey-noneu.truecaller.com^
+||ads-segment-profile-noneu.truecaller.com^
+||premium-noneu.truecaller.com^
+||ads-partner-noneu.truecaller.com^
 # trackers
 ||lpcdn.lpsnmedia.net^
 ||publisher.liveperson.net^
@@ -80,13 +73,6 @@
 ||app.link^
 ||pepper.com^
 ||piano.io^
-# truecaller
-||survey-noneu.truecaller.com^
-||ads-segment-profile-noneu.truecaller.com^
-||premium-noneu.truecaller.com^
-||ads-partner-noneu.truecaller.com^
-# wps
-||wps.com^
 ! 
 !
 ! motorola mobile end
