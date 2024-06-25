@@ -1,1 +1,34 @@
-..
+! Version: 2.3
+! Title: pc_main
+!
+!
+# ms edge spying
+*bing.com*
+*microsoft.com*
+||microsoft.net^
+||msedge.net^
+||msn.com^
+||windows.com^
+||yahoo.com^
+# ms syping
+||akadns.net^
+||azurewebsites.net^
+||bing.net^
+||cloudapp.net^
+||gfx.ms^
+||live.com^
+||msftconnecttest.com^
+||msftncsi.com^
+||nsatc.net^
+||office.com^
+||office365.com^
+||skype.com^
+||t-msedge.net^
+||vsgallery.com^
+||windowsazure.com^
+||windowsupdate.com^
+# vmware
+||softwareupdate.vmware.com^
+!
+!
+! pc main list ends
