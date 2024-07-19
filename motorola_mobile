@@ -1,14 +1,19 @@
-! Version: 2.4
-! Title: motorola mobile
+! Version: 1.0
+! Title: motorola poco xiaomi mobile
 !
 !
 # exceptions
-@@||t2bot.ru^
-@@||addons.mozilla.org^
-@@||github.githubassets.com^
-# motorola
-||svcmot.com^
-||moto-cds.appspot.com^
+
+# poco xiaomi
+||sa.api.intl.miui.com
+||data.mistat.xiaomi.com
+||data.mistat.intl.xiaomi.com
+||data.mistat.india.xiaomi.com
+||data.mistat.rus.xiaomi.com
+||tracking.miui.com
+||tracking.intl.miui.com
+||tracking.india.miui.com
+||tracking.rus.miui.com
 # no longer using forefox or sync
 ||mozilla.com^
 ||mozilla.net^
