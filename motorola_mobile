@@ -4,6 +4,9 @@
 !
 # exceptions
 
+# motorola
+||svcmot.com^
+||moto-cds.appspot.com^
 # poco xiaomi
 ||sa.api.intl.miui.com
 ||data.mistat.xiaomi.com
