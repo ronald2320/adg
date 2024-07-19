@@ -2,6 +2,9 @@
 ! Title: pc_main
 !
 !
+# exceptions
+@@||addons.mozilla.org^
+@@||github.githubassets.com^
 # ms edge spying
 ||bing.com^
 ||microsoft.com^
