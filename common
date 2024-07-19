@@ -1,4 +1,4 @@
-! Version: 1.0
+! Version: 1.1
 ! Title: mobile pc lap
 !
 !
@@ -7,6 +7,7 @@
 # motorola
 ||svcmot.com^
 ||moto-cds.appspot.com^
+||motpaks.com^
 # poco xiaomi simplified
 ||xiaomi.com^
 ||xiaomi.net^
@@ -49,6 +50,7 @@
 ||userlocation.googleapis.com^
 # nova launcher
 ||teslacoilapps.com^
+||novalauncher.com^
 # amazon
 ||kinesis.us-east-1.amazonaws.com^
 # adobe
