@@ -1,10 +1,11 @@
-! Version: 2.3
+! Version: 2.4
 ! Title: pc_main
 !
 !
 # exceptions
 @@||activation.playready.microsoft.com^
 @@||activation2.playready.microsoft.com^
+@@||addons.mozilla.org^
 # ms edge spying
 ||bing.com^
 ||microsoft.com^
