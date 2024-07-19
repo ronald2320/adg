@@ -3,8 +3,8 @@
 !
 !
 # exceptions
-@@||addons.mozilla.org^
-@@||github.githubassets.com^
+@@||activation.playready.microsoft.com^
+@@||activation2.playready.microsoft.com^
 # ms edge spying
 ||bing.com^
 ||microsoft.com^
