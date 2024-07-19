@@ -4,6 +4,11 @@
 ! do not merge with common
 !
 !
+# poco xiaomi simplified
+||xiaomi.com^
+||xiaomi.net^
+||miui.com^
+||resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com^
 # poco xiaomi
 ||sa.api.intl.miui.com^
 ||data.mistat.xiaomi.com^
@@ -14,8 +19,7 @@
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
-||resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com^
-
+!
 !
 !
 ! g mobile only end
