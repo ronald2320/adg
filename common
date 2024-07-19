@@ -1,5 +1,5 @@
-! Version: 3.0
-! Title: motorola poco xiaomi mobile
+! Version: 1.0
+! Title: mobile pc lap
 !
 !
 # exceptions
@@ -24,7 +24,6 @@
 ||analytics.tplinkcloud.com^
 ||iac.tplinknbu.com^
 # g mobile
-||api.listonic.com^
 # google
 ||alt1-mtalk.google.com^
 ||alt2-mtalk.google.com^
@@ -60,6 +59,9 @@
 ||ads-segment-profile-noneu.truecaller.com^
 ||premium-noneu.truecaller.com^
 ||ads-partner-noneu.truecaller.com^
+# wps office
+||kingsoft-office-service.com^
+||wps.com^
 # trackers
 ||algolia.net^
 ||api.hamsterbeat.com^
@@ -78,4 +80,4 @@
 ||sentry.io^
 ! 
 !
-! motorola mobile end
+! mobile pc lap end
