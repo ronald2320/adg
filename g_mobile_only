@@ -5,15 +5,17 @@
 !
 !
 # poco xiaomi
-||sa.api.intl.miui.com
-||data.mistat.xiaomi.com
-||data.mistat.intl.xiaomi.com
-||data.mistat.india.xiaomi.com
-||data.mistat.rus.xiaomi.com
-||tracking.miui.com
-||tracking.intl.miui.com
-||tracking.india.miui.com
-||tracking.rus.miui.com
+||sa.api.intl.miui.com^
+||data.mistat.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||tracking.miui.com^
+||tracking.intl.miui.com^
+||tracking.india.miui.com^
+||tracking.rus.miui.com^
+||resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com^
+
 !
 !
 ! g mobile only end
