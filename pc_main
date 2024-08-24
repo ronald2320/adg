@@ -1,0 +1,24 @@
+! Version: 2.5
+! Title: pc_main
+!
+!
+# exceptions
+@@||activation.playready.microsoft.com^
+@@||activation2.playready.microsoft.com^
+@@||addons.mozilla.org^
+# ms edge spying
+||bing.com^
+||msn.com^
+||yahoo.com^
+# ms syping
+||bing.net^
+||live.com^
+||nsatc.net^
+||office.com^
+||office365.com^
+||skype.com^
+# vmware
+||softwareupdate.vmware.com^
+!
+!
+! pc main list ends
